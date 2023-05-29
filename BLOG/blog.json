@@ -1,0 +1,20 @@
+{
+    "blog": [
+      {
+        "id": 1,
+        "focus": "trend",
+        "post": "Raymond Dokpesi, AIT founder is dead"
+
+      },
+      {
+        "id": 2,
+        "focus": "tech",
+        "post": "TECH Nigeria is the world's largest online university. More than 10000 university programs, 6000 teachers and the highest academic quality."
+      },
+      {
+        "id": 3,
+        "focus": "sports",
+        "post": "Keeping you up to date on the latest sports news from the UK and around the World. With live scores, fixtures from world of Football, Rugby Union, Boxing,"
+      }
+    ]
+  }
