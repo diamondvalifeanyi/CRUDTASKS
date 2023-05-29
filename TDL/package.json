@@ -1,0 +1,25 @@
+{
+  "name": "tdl",
+  "version": "1.0.0",
+  "description": "creating a simple todolist app that can perform basic CRUD operations",
+  "main": "todolist.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "node": "node todolist.js",
+    "dev": "nodemon todolist.js"
+  },
+  "keywords": [
+    "node",
+    "nodemon",
+    "express",
+    "http",
+    "req",
+    "res"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "contactbook",
+  "version": "1.0.0",
+  "description": "creating a simple contact book api",
+  "main": "contact.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "node": "node contact.js",
+    "dev": "nodemon contact.js"
+  },
+  "keywords": [
+    "node",
+    "nodemon",
+    "express",
+    "http",
+    "req",
+    "res"
+
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}

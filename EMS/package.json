@@ -1,0 +1,25 @@
+{
+  "name": "ems",
+  "version": "1.0.0",
+  "description": "creating an employee management system where you can perform CRUD operations",
+  "main": "employee.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "node": "node employee.js",
+    "dev": "nodemon employee.js"
+  },
+  "keywords": [
+    "node",
+    "nodemon",
+    "express",
+    "http",
+    "req",
+    "res"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
